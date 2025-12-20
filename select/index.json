@@ -1,0 +1,176 @@
+{
+  "version": 1,
+  "base_track": "Aimai",
+  "base_artist": "9Lana",
+  "createdAt": "2025-12-20T09:29:09.156448Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Aimai Moko",
+      "artist": "Inori Minase",
+      "has_synced": true,
+      "path": "select/01_Aimai_Moko_Inori_Minase.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Aimai Elegy",
+      "artist": "DECO*27 feat. Miku Hatsune",
+      "has_synced": true,
+      "path": "select/02_Aimai_Elegy_DECO_27_feat._Miku_Hatsune.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Aimai Elegy",
+      "artist": "DECO*27/Hatsune Miku",
+      "has_synced": true,
+      "path": "select/03_Aimai_Elegy_DECO_27_Hatsune_Miku.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Aimai Elegy",
+      "artist": "DECO*27 feat. marina",
+      "has_synced": true,
+      "path": "select/04_Aimai_Elegy_DECO_27_feat._marina.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Aimai Elegy",
+      "artist": "DECO*27/marina",
+      "has_synced": true,
+      "path": "select/05_Aimai_Elegy_DECO_27_marina.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Aimai na mikaku",
+      "artist": "ギルガメッシュ",
+      "has_synced": false,
+      "path": "select/06_Aimai_na_mikaku_ギルガメッシュ.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Aimai de iiyo",
+      "artist": "Hitsujibungaku",
+      "has_synced": true,
+      "path": "select/07_Aimai_de_iiyo_Hitsujibungaku.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Aimai Me Mine",
+      "artist": "Tani Yuuki",
+      "has_synced": true,
+      "path": "select/08_Aimai_Me_Mine_Tani_Yuuki.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Aimai na mikaku",
+      "artist": "girugamesh",
+      "has_synced": false,
+      "path": "select/09_Aimai_na_mikaku_girugamesh.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Aimai Moko",
+      "artist": "Minase Inori",
+      "has_synced": true,
+      "path": "select/10_Aimai_Moko_Minase_Inori.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Aimai Cyborg",
+      "artist": "Neko Hacker/UGOKUCHAN/JungMato",
+      "has_synced": true,
+      "path": "select/11_Aimai_Cyborg_Neko_Hacker_UGOKUCHAN_JungMato.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Aimai Attitude",
+      "artist": "rejection",
+      "has_synced": true,
+      "path": "select/12_Aimai_Attitude_rejection.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Aimai Elegy feat. marina",
+      "artist": "DECO*27",
+      "has_synced": false,
+      "path": "select/13_Aimai_Elegy_feat._marina_DECO_27.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Aimai Elegy",
+      "artist": "Soraru",
+      "has_synced": true,
+      "path": "select/14_Aimai_Elegy_Soraru.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Half Open (Aimai Bootleg Remix)",
+      "artist": "The Bilinda Butchers",
+      "has_synced": false,
+      "path": "select/15_Half_Open_(Aimai_Bootleg_Remix)_The_Bilinda_Butchers.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Aimai Vision",
+      "artist": "Cinema Staff",
+      "has_synced": true,
+      "path": "select/16_Aimai_Vision_Cinema_Staff.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Aimai Vision",
+      "artist": "Cinema Staff",
+      "has_synced": false,
+      "path": "select/17_Aimai_Vision_Cinema_Staff.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Aimai Elegy",
+      "artist": "DECO*27",
+      "has_synced": true,
+      "path": "select/18_Aimai_Elegy_DECO_27.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "aimai elegy",
+      "artist": "deco27 feat hatsune miku",
+      "has_synced": true,
+      "path": "select/19_aimai_elegy_deco27_feat_hatsune_miku.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Aimai Memories",
+      "artist": "Base Ball Bear",
+      "has_synced": false,
+      "path": "select/20_Aimai_Memories_Base_Ball_Bear.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Aimai",
+      "artist": "9Lana",
+      "has_synced": false,
+      "path": "select/pl_01_Aimai_9Lana.txt"
+    }
+  ]
+}
